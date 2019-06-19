@@ -1,4 +1,4 @@
-<img src="https://github.com/sdsna/2019SustainableDevelopmentReport/blob/master/SDSN_logo.jpg" width="500" alt="SDSN Logo">
+<img src="https://github.com/sdsna/2018GlobalIndex/blob/master/SDSN_logo.jpg" width="500" alt="SDSN Logo">
 
 # US CITY SDG INDEX AND DASHBOARDS REPORT 2018  
 ## Leaving No U.S. City Behind: The 2018 U.S. Cities SDGs Index
